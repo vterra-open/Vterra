@@ -135,6 +135,10 @@ Vterra was built for leaders and institutions that recognize the insufficiency o
     └── Take-Control-By-Giving-Up-Control.pdf   — Full book, free download
 ```
 
+## Strategy & Accountability
+Vterra publishes its own operating GSOs as a demonstration that we practice what we offer.  
+[See the 2026 GSO Framework →](https://github.com/vterra-open/vterra/blob/main/Vterra2026GSOs.md)
+
 ---
 
 ## How to Engage
