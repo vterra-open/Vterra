@@ -46,7 +46,7 @@ If you find errors, ambiguities, or gaps in FRAMEWORK.md or README.md — includ
 
 ## Trademark Notice
 
-Vterra, Valorys, and Verix are registered trademarks of Vterra, Inc., a California corporation. The Apache 2.0 license permits use of the framework content. It does not grant rights to use these trademarks in ways that imply official affiliation or endorsement without permission.
+Vterra, Valorys, and Voxyn are registered trademarks of Vterra, Inc., a California corporation. The Apache 2.0 license permits use of the framework content. It does not grant rights to use these trademarks in ways that imply official affiliation or endorsement without permission.
 
 ---
 
