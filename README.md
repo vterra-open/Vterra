@@ -1,6 +1,6 @@
 # Vterra — Open-Source Value Creation Platform
 
-**Valorys · Verix · Vterra**
+**Valorys · Voxyn · Vterra**
 
 > *"The more control exerted, the less value created."*
 > — Colin O'Neill, *Take Control By Giving Up Control*
@@ -18,8 +18,8 @@ The platform has three interdependent components:
 | Component | Role |
 |-----------|------|
 | **Valorys** | The governing framework — twelve value amplifiers organized around three principles: Clarity, Value, and Respect |
-| **Verix** | An AI advisory presence — a virtual consultant that reasons from your organization's own knowledge base using the logic of Valorys |
-| **Vterra** | The open architecture that connects Valorys and Verix into a unified, extensible operating environment |
+| **Voxyn** | An AI advisory presence — a virtual consultant that reasons from your organization's own knowledge base using the logic of Valorys |
+| **Vterra** | The open architecture that connects Valorys and Voxyn into a unified, extensible operating environment |
 
 Everything here is free. The framework is released under the **Apache License 2.0**. The book is released under **Creative Commons Attribution-NoDerivatives 4.0**. There is no product to buy, no consulting engagement required, and no paywall of any kind.
 
@@ -82,13 +82,13 @@ These cycles are not sequential — they are simultaneous and mutually informing
 
 ---
 
-## The Verix AI Advisory Agent
+## The Voxyn AI Advisory Agent
 
-Verix is the AI expression of Valorys. It functions as a persistent virtual consultant — not a generic chatbot, but an advisory presence that reasons from your organization's own knowledge base through the logic of the Valorys framework.
+Voxyn is the AI expression of Valorys. It functions as a persistent virtual consultant — not a generic chatbot, but an advisory presence that reasons from your organization's own knowledge base through the logic of the Valorys framework.
 
-Traditional consulting is episodic: advisors arrive, deliver recommendations, and leave. Institutional context dissipates. Learning dissolves. Verix operates differently — it maintains a living representation of organizational conditions, interprets performance signals through Valorys's value-centered logic, and provides continuous advisory support at the speed modern complexity demands.
+Traditional consulting is episodic: advisors arrive, deliver recommendations, and leave. Institutional context dissipates. Learning dissolves. Voxyn operates differently — it maintains a living representation of organizational conditions, interprets performance signals through Valorys's value-centered logic, and provides continuous advisory support at the speed modern complexity demands.
 
-**To experience Verix in action**, see the Torvin Insurance Group demo — a realistic deployment of the full Vterra-Valorys-Verix platform in a fictional organizational context:
+**To experience Voxyn in action**, see the Torvin Insurance Group demo — a realistic deployment of the full Vterra-Valorys-Voxyn platform in a fictional organizational context:
 
 👉 [**Launch the Torvin Demo at vterra.ai**](https://vterra.ai)
 
@@ -145,7 +145,7 @@ Vterra publishes its own operating GSOs as a demonstration that we practice what
 
 ## How to Engage
 
-**Use it.** Deploy Valorys in your organization. Adapt the framework to your context. Build on Verix. The Apache license permits it.
+**Use it.** Deploy Valorys in your organization. Adapt the framework to your context. Build on Voxyn. The Apache license permits it.
 
 **Cite it.** If you publish, teach, or present using this framework, a citation is appreciated:
 > O'Neill, C. (2024). *Take Control By Giving Up Control: The Value-Centered Fast Track to Organizational Growth*. VTI Press. ISBN 979-8-9892047-1-7.
@@ -162,7 +162,7 @@ The Vterra platform, Valorys framework documentation, and all framework content 
 
 *Take Control By Giving Up Control* (book) is released under **Creative Commons Attribution-NoDerivatives 4.0 International**. You may share and redistribute the book freely with attribution. You may not publish modified or derivative versions. See `LICENSE-BOOK.md` for full terms.
 
-Trademark notice: Vterra, Valorys, and Verix are registered trademarks of Vterra, Inc., a California corporation. Use of the framework under Apache 2.0 does not convey rights to these trademarks.
+Trademark notice: Vterra, Valorys, and Voxyn are registered trademarks of Vterra, Inc., a California corporation. Use of the framework under Apache 2.0 does not convey rights to these trademarks.
 
 ---
 
