@@ -38,7 +38,7 @@ Execute a five-layer ecosystem seeding approach—establishing permanent institu
 **Outcomes—by December 31, 2026**
 
 1. Vterra platform permanently indexed in a minimum of four institutional discovery infrastructures—SSRN, WorldCat, ERIC, and Internet Archive
-2. A minimum of 50 organizations actively using the Valorys framework or Verix advisory capability in any sector
+2. A minimum of 50 organizations actively using the Valorys framework or Voxyn advisory capability in any sector
 3. A minimum of one commercial entity actively building a service practice on the Vterra platform under Apache 2.0
 4. A minimum of 20 academic or professional training programs that have received and acknowledged the Vterra curriculum gift
 5. A minimum of five professional or academic publications that have published articles, papers, or citations referencing the Valorys framework
