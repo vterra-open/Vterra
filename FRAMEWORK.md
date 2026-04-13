@@ -278,7 +278,7 @@ GSOs operate at every organizational level — cascading from board and executiv
 - Building the organizational literacy required for technology to be used with judgment, not just access
 - Integrating technology into value streams in ways that accelerate flow rather than create new bottlenecks
 
-**Vterra-specific application:** Verix — the AI advisory agent — represents the Advanced Technologies amplifier in operational form. It augments leadership judgment rather than replacing it, operating within the Valorys value framework and preserving absolute data sovereignty.
+**Vterra-specific application:** Voxyn — the AI advisory agent — represents the Advanced Technologies amplifier in operational form. It augments leadership judgment rather than replacing it, operating within the Valorys value framework and preserving absolute data sovereignty.
 
 **Pathologies addressed:** Technology adoption theater, AI without governance, digital disruption without strategic benefit, technology investments that create complexity rather than capability.
 
@@ -340,10 +340,10 @@ GSOs operate at every organizational level — cascading from board and executiv
 
 ## The Vterra Platform
 
-The Valorys framework is the conceptual foundation of **Vterra** — a free, open-source platform that makes Valorys operational through **Verix**, an AI advisory capability that functions as a persistent virtual consultant for leaders and teams.
+The Valorys framework is the conceptual foundation of **Vterra** — a free, open-source platform that makes Valorys operational through **Voxyn**, an AI advisory capability that functions as a persistent virtual consultant for leaders and teams.
 
 **Valorys** provides the governing logic.
-**Verix** provides the AI-enabled advisory presence.
+**Voxyn** provides the AI-enabled advisory presence.
 **Vterra** provides the open architecture that makes their integration systemic.
 
 Together, they enable organizations to transition from periodic consulting to persistent advisory capability — maintaining institutional context, testing assumptions against the Valorys framework, and reinforcing strategic alignment continuously.
@@ -384,4 +384,4 @@ Framework documentation:
 This document and all Valorys framework content are released under the **Apache License 2.0**.
 The book *Take Control By Giving Up Control* is released under **Creative Commons Attribution-NoDerivatives 4.0 International**.
 
-Vterra, Valorys, and Verix are registered trademarks of Vterra, Inc.
+Vterra, Valorys, and Voxyn are registered trademarks of Vterra, Inc.
