@@ -1,4 +1,4 @@
-# Vterra — Open-Source Value Creation Platform
+# Vterra — Open-Source, AI-Enabled Value Creation Platform
 
 **Valorys · Voxyn · Vterra**
 
