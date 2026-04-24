@@ -3,7 +3,7 @@
 
 > **Planning horizons:** Annual (Jan 1 – Dec 31, 2026) &nbsp;|&nbsp; Semi-Annual (Apr 1 – Sep 30, 2026) &nbsp;|&nbsp; Q2 (Apr 1 – Jun 30, 2026)
 >
-> **Governing principle:** All GSOs reflect only what is within Vterra's direct control. External entities—adopting organizations, commercial implementers, academic institutions—will create their own GSOs using this structure.
+> **Governing principle:** All GSOs reflect only what is within Vterra's direct control. External entities—adopting organizations, commercial implementers, academic institutions—will create their own GSOs based on this structure.
 
 ---
 
@@ -29,10 +29,10 @@ Artificial intelligence is among the most consequential forces humanity has ever
 ## Enterprise Level
 ### Annual GSO—January 1 through December 31, 2026
 
-**Goal**
+**Goal 1:**
 Achieve the widest possible dissemination of the Vterra platform and establish the structural conditions for self-sustaining global propagation.
 
-**Strategy**
+**Strategy:**
 Execute a five-layer ecosystem seeding approach—establishing permanent institutional addresses across global discovery infrastructure, placing the work through trusted sector-specific intermediaries who have direct relationships with frontline leaders, gifting a complete curriculum to academic and training institutions, extending a formal translation invitation to global development organizations, and issuing an unconditional ecosystem invitation to commercial implementers and consulting practices—requiring no ongoing management, public presence, or financial investment beyond current platform operating costs.
 
 **Outcomes—by December 31, 2026**
@@ -60,10 +60,10 @@ Execute a five-layer ecosystem seeding approach—establishing permanent institu
 
 #### Semi-Annual GSO—April 1 through September 30, 2026
 
-**Goal**
+**Goal 1:**
 Place the Vterra platform in front of frontline government leaders through the trusted intermediaries who serve them directly.
 
-**Strategy**
+**Strategy:**
 Identify and contact resource directors at state municipal leagues, state associations of counties, ICMA regional chapters, and the Federal Executive Institute—offering the book and platform as a free member resource with no strings attached. Submit the framework to federal digital transformation and innovation office resource libraries. Deposit the book in the Internet Archive and submit to WorldCat so government researchers find it through existing discovery infrastructure.
 
 **Outcomes—by September 30, 2026**
@@ -75,10 +75,10 @@ Identify and contact resource directors at state municipal leagues, state associ
 
 #### Q2 GSO—April 1 through June 30, 2026
 
-**Goal**
+**Goal 2:**
 Establish initial presence in government professional networks and permanent discoverability through institutional infrastructure.
 
-**Strategy**
+**Strategy:**
 Execute WorldCat and Internet Archive submissions first—these create permanent discoverability with one-time effort. Then execute the first wave of state municipal league and federal innovation office outreach using the anonymous gift model and direct email templates.
 
 **Outcomes—by June 30, 2026**
@@ -95,10 +95,10 @@ Execute WorldCat and Internet Archive submissions first—these create permanent
 
 #### Semi-Annual GSO—April 1 through September 30, 2026
 
-**Goal**
+**Goal 1:**
 Place Vterra in the hands of nonprofit executive directors through the community foundations, United Way networks, and regional nonprofit associations that serve them daily.
 
-**Strategy**
+**Strategy:**
 Contact resource directors at community foundations, United Way regional networks, and state nonprofit associations—offering the book and platform as a free resource for their members. Target UNDP's governance and public administration division and similar international development bodies for NGO-sector reach beyond the United States. Use the anonymous gift model for a curated list of individual nonprofit executive directors leading organizations of 50–500 staff where the platform's impact would be most immediately visible.
 
 **Outcomes—by September 30, 2026**
@@ -111,10 +111,10 @@ Contact resource directors at community foundations, United Way regional network
 
 #### Q2 GSO—April 1 through June 30, 2026
 
-**Goal**
+**Goal 2:**
 Initiate nonprofit sector seeding through the highest-leverage community foundation and United Way networks.
 
-**Strategy**
+**Strategy:**
 Prioritize the 10 largest community foundations by asset size and the 10 most active United Way regional networks—these have the broadest member reach and the most active resource-sharing communications. Contact their resource or program directors with the gift model outreach.
 
 **Outcomes—by June 30, 2026**
@@ -130,10 +130,10 @@ Prioritize the 10 largest community foundations by asset size and the 10 most ac
 
 #### Semi-Annual GSO—April 1 through September 30, 2026
 
-**Goal**
+**Goal 1:**
 Place Vterra in front of SME leaders through SCORE, SBDC networks, and state chamber associations whose advisors and members are actively seeking organizational improvement resources.
 
-**Strategy**
+**Strategy:**
 Contact SCORE chapter resource coordinators and SBDC network directors—SCORE advisors in particular are actively looking for frameworks to share with clients and represent 250+ direct contact points with SME leaders. Contact state chamber of commerce associations at the state level rather than national, as state associations have more direct member relationships. Offer the curriculum gift to SCORE advisor training programs specifically.
 
 **Outcomes—by September 30, 2026**
@@ -146,10 +146,10 @@ Contact SCORE chapter resource coordinators and SBDC network directors—SCORE a
 
 #### Q2 GSO—April 1 through June 30, 2026
 
-**Goal**
+**Goal 2:**
 Initiate SME sector seeding through SCORE—the highest-leverage single channel for reaching SME leaders through trusted advisors.
 
-**Strategy**
+**Strategy:**
 SCORE is the priority for Q2 because its advisors are practitioners who immediately recognize the value of a free, complete organizational framework they can deploy with clients. Contact the 20 highest-volume SCORE chapters by volunteer advisor count. Offer the book, the platform, and a one-page SCORE-specific overview of how Valorys applies to small business leadership challenges.
 
 **Outcomes—by June 30, 2026**
@@ -165,10 +165,10 @@ SCORE is the priority for Q2 because its advisors are practitioners who immediat
 
 #### Semi-Annual GSO—April 1 through September 30, 2026
 
-**Goal**
+**Goal 1:**
 Establish Valorys as a citable, teachable framework in public administration, nonprofit management, business, and organizational behavior academic programs—and in the research literature of those fields.
 
-**Strategy**
+**Strategy:**
 Submit the working paper to SSRN to establish academic discoverability and citability. Submit the framework to ERIC for education research indexing. Deliver the complete curriculum gift directly to MPA, MBA, and nonprofit management program directors at a targeted list of universities. Contact think tank program officers whose research areas align with organizational effectiveness, AI governance, and institutional design. Use the anonymous gift model for a curated list of individual faculty at institutions where adoption would have the highest downstream reach.
 
 **Outcomes—by September 30, 2026**
@@ -182,10 +182,10 @@ Submit the working paper to SSRN to establish academic discoverability and citab
 
 #### Q2 GSO—April 1 through June 30, 2026
 
-**Goal**
+**Goal 2:**
 Establish permanent academic discoverability and initiate curriculum gift distribution to the highest-priority programs.
 
-**Strategy**
+**Strategy:**
 SSRN and ERIC submissions are the Q2 priority—one-time effort, permanent discoverability. Simultaneously deliver the curriculum gift to the top 15 MPA programs by enrollment and reputation, as these have the largest downstream practitioner reach.
 
 **Outcomes—by June 30, 2026**
@@ -202,10 +202,10 @@ SSRN and ERIC submissions are the Q2 priority—one-time effort, permanent disco
 
 #### Semi-Annual GSO—April 1 through September 30, 2026
 
-**Goal**
+**Goal 1:**
 Place the Valorys framework in front of military education faculty and command doctrine developers who will recognize its relationship to mission command, distributed authority, and adaptive leadership principles.
 
-**Strategy**
+**Strategy:**
 Direct outreach to curriculum directors and faculty at the five US war colleges—Naval War College, Army War College, Marine Corps University, Air War College, and National Defense University. Contact NATO's organizational development and transformation resources. Offer the curriculum gift specifically framed around the relationship between Valorys's Distributed Authority amplifier and modern command doctrine. The founding team's Naval Academy and Marine Corps background provides authentic credibility that requires no elaboration—it simply needs to be stated in the outreach.
 
 **Outcomes—by September 30, 2026**
@@ -218,10 +218,10 @@ Direct outreach to curriculum directors and faculty at the five US war colleges�
 
 #### Q2 GSO—April 1 through June 30, 2026
 
-**Goal**
+**Goal 2:**
 Initiate war college outreach and establish the military-specific curriculum framing needed to make the gift land with maximum relevance.
 
-**Strategy**
+**Strategy:**
 Before outreach begins, refine the curriculum gift with a military-specific framing document that explicitly maps Valorys concepts to mission command doctrine, commander's intent, and operational planning frameworks. Then contact Marine Corps University and the Naval War College first—the founding team's service background makes these the most natural initial connections and the most likely to engage.
 
 **Outcomes—by June 30, 2026**
@@ -237,10 +237,10 @@ Before outreach begins, refine the curriculum gift with a military-specific fram
 
 #### Semi-Annual GSO—April 1 through September 30, 2026
 
-**Goal**
+**Goal 1:**
 Issue a clear, unconditional, and compelling invitation for commercial and public-good entities to build on the Vterra platform—establishing the structural conditions for a self-sustaining ecosystem that requires no ongoing management from Vterra.
 
-**Strategy**
+**Strategy:**
 Publish a dedicated "Build On This" section on vterra.ai and in the GitHub README that explicitly welcomes commercial implementers, training organizations, regional support communities, and consulting practices. Update CONTRIBUTING.md to reflect the Red Hat model explicitly. Activate GitHub Discussions as the community forum. Establish the monitored contact inbox as the backstop for serious ecosystem inquiries. The ecosystem invitation requires no active management—it needs to be present, clear, and genuine wherever the platform is discovered.
 
 **Outcomes—by September 30, 2026**
@@ -255,10 +255,10 @@ Publish a dedicated "Build On This" section on vterra.ai and in the GitHub READM
 
 #### Q2 GSO—April 1 through June 30, 2026
 
-**Goal**
+**Goal 2:**
 Build the ecosystem infrastructure and publish the invitation—so that every outreach in every other business unit points toward an ecosystem that is already open and ready to receive participants.
 
-**Strategy**
+**Strategy:**
 This business unit is the foundation all other outreach rests on. The ecosystem invitation, the GitHub Discussions forum, the public Valorys advisor, and the updated website content must all be live before the major outreach waves begin—so that anyone who discovers Vterra through any channel finds a complete, welcoming, self-explanatory environment.
 
 **Outcomes—by June 30, 2026**
