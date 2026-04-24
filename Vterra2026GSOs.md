@@ -1,5 +1,5 @@
-# Vterra GSO Framework
-### Goal—Strategy—Outcomes
+# Vterra 2026 Goals
+### Goal—Strategy—Outcomes (GSO) Framework
 
 > **Planning horizons:** Annual (Jan 1 – Dec 31, 2026) &nbsp;|&nbsp; Semi-Annual (Apr 1 – Sep 30, 2026) &nbsp;|&nbsp; Q2 (Apr 1 – Jun 30, 2026)
 >
