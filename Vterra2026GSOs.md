@@ -15,13 +15,13 @@ The Valorys framework asks organizations to declare their goals, develop effecti
 
 ## Mission · Vision · Purpose
 
-**Mission**
+**Mission:**
 Vterra exists to strengthen the people who carry others—by giving any leader, of any organization, in any place on earth, free access to the knowledge, structure, and guidance they need to make responsible decisions and create lasting value for those they serve.
 
-**Vision**
+**Vision:**
 A world in which every leader—regardless of resources, sector, or geography—has access to unbiased, reality-grounded institutional intelligence that learns and grows with their organization, raising the quality of human decision-making at every level of society.
 
-**Purpose**
+**Purpose:**
 Artificial intelligence is among the most consequential forces humanity has ever encountered. Vterra exists to ensure that its power is governed by human values, guided by ethical structure, and placed in service of the people and institutions most responsible for the well-being of others—so that AI becomes a force for human flourishing rather than its demise.
 
 ---
