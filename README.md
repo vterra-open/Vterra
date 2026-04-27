@@ -122,6 +122,34 @@ Vterra was built for leaders and institutions that recognize the insufficiency o
 
 ---
 
+## Build On This
+
+Vterra is open infrastructure. You are invited — without qualification — to build consulting practices, training programs, translation communities, and commercial services on this platform.
+
+**No permission required. No license fees. No coordination with Vterra, Inc.**
+
+**What you can do:**
+- Build and sell consulting services based on the Valorys framework
+- Train practitioners and charge for that training
+- Translate the framework for use in other languages and contexts
+- Build derivative tools, agents, and platform extensions
+- Develop sector-specific or regional variants of the framework
+
+**What you cannot do:**
+- Relicense the framework itself under different terms
+- Distribute modified versions of the book
+- Use the Vterra, Valorys, Voxyn, or GSO marks in ways that imply you are or represent Vterra, Inc.
+
+This is the Red Hat model applied to organizational intelligence: the platform is free and open; the services, training, and implementation support you build on top of it are yours to own and monetize.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for full detail on commercial implementation, translation, and direct contributions.
+
+For the full ecosystem invitation and contact architecture, visit [vterra.ai/ecosystem](https://vterra.ai/ecosystem).
+
+**Questions?** Write to colin@vterra.ai. Response within 72 hours.
+
+---
+
 ## Repository Contents
 
 ```
