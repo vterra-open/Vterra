@@ -1,57 +1,106 @@
 # Contributing to Vterra
 
-Thank you for your interest in the Valorys framework and the Vterra platform.
+Vterra is open infrastructure. The most important contribution anyone can make
+is to use it, build on it, and make it known to the organizations that need it.
 
-This is not a conventional open-source software project. There is no codebase to pull-request. What exists here is a framework, a book, and a set of intellectual tools for organizational leadership. Contribution looks different accordingly.
+For the full ecosystem invitation and narrative framing, visit
+[vterra.ai/ecosystem](https://vterra.ai/ecosystem).
 
 ---
 
-## How You Can Contribute
+## Commercial Implementers
 
-### Use It and Document It
+You are welcome to build a commercial practice on this platform. This means:
 
-The most valuable contribution is deployment. If you apply Valorys in an organization — whether a corporation, government agency, nonprofit, NGO, academic institution, or military unit — and you are willing to document what worked, what was adapted, and what you learned, that is a genuine contribution to the framework's evolution.
+- Offering Valorys-based organizational consulting to paying clients
+- Building and selling implementation services around the Vterra platform
+- Developing proprietary tools, assessments, and extensions on top of the framework
+- Creating training programs and certification curricula for practitioners
 
-You are welcome to share case studies, adaptations, or implementation notes by opening a GitHub Discussion or contacting us at vterra.ai.
+**No permission required. No revenue sharing. No coordination with Vterra, Inc.**
 
-### Translate It
+This is the Red Hat model applied to organizational intelligence. The platform
+is free and open. The services you build on top of it are yours entirely.
 
-If you wish to translate the FRAMEWORK.md or README.md into another language, we welcome that. Please open an issue indicating the language and your intended approach. Translations should be faithful to the original — not adapted or editorially modified — consistent with the CC BY-ND license governing the book.
+The only restrictions are trademark-based: you may not use the Vterra, Valorys,
+Voxyn, or GSO marks in ways that imply you are, represent, or are endorsed by
+Vterra, Inc.
 
-### Cite and Teach It
+---
 
-If you teach organizational leadership, management, strategy, public administration, or related disciplines and you incorporate Valorys into your curriculum, we welcome that. Please cite appropriately:
+## Training Organizations
 
-> O'Neill, C. (2024). *Take Control By Giving Up Control: The Value-Centered Fast Track to Organizational Growth*. VTI Press. ISBN 979-8-9892047-1-7.
+If you wish to develop and deliver practitioner training based on the Valorys
+framework:
 
-### Build With It
+- You may build curricula, assessments, and certification programs freely
+- You may charge for training and certification
+- You may not represent your certification as an official Vterra, Inc. credential
+- Cite the source framework appropriately in all materials:
 
-The Apache 2.0 license permits you to build derivative works, tools, applications, and frameworks based on the Valorys architecture. If you build something and want to share it with the broader community, open a Discussion or create a link in the wiki.
+> O'Neill, C. (2024). *Take Control By Giving Up Control: The Value-Centered
+> Fast Track to Organizational Growth*. VTI Press. ISBN 979-8-9892047-1-7.
 
-### Improve the Documentation
+---
 
-If you find errors, ambiguities, or gaps in FRAMEWORK.md or README.md — including factual, structural, or clarity issues — please open an issue. We take documentation quality seriously.
+## Translation Communities
+
+If you wish to translate the framework documentation into other languages:
+
+- Translations of FRAMEWORK.md and README.md are welcome under Apache 2.0
+- Translations should be faithful to the original — not editorially adapted
+- Open a GitHub Discussion indicating the language and your intended approach
+- Completed translations may be submitted as pull requests for inclusion in
+  the repository
+
+See [TRANSLATION.md](TRANSLATION.md) for full guidance.
+
+---
+
+## Direct Contributions to the Repository
+
+If you find errors, ambiguities, or gaps in FRAMEWORK.md or README.md:
+
+- Open an issue describing the problem and your suggested correction
+- For small fixes, a pull request is welcome directly
+- For substantive additions or structural changes, open a Discussion first
+
+---
+
+## Using It and Documenting It
+
+If you deploy Valorys in an organization and are willing to document what
+worked, what was adapted, and what you learned — that is a genuine contribution
+to the framework's evolution. Share case studies and implementation notes by
+opening a GitHub Discussion.
 
 ---
 
 ## What We Ask
 
-**Attribute faithfully.** Always identify Colin O'Neill and Vterra, Inc. as the originators of the Valorys framework when sharing, teaching, or presenting this work.
+**Attribute faithfully.** Always identify Colin O'Neill and Vterra, Inc. as the
+originators of the Valorys framework when sharing, teaching, or presenting.
 
-**Do not misrepresent.** Do not present adaptations of the framework as the original, or claim institutional endorsement that does not exist.
+**Do not misrepresent.** Do not present adaptations as the original, or claim
+institutional endorsement that does not exist.
 
-**Use it for good.** The framework was designed to help organizations create genuine value for the people they serve. We ask — though we cannot enforce — that it be applied with that intent.
+**Use it for good.** The framework was designed to help organizations create
+genuine value for the people they serve. We ask — though we cannot enforce —
+that it be applied with that intent.
 
 ---
 
 ## Trademark Notice
 
-Vterra, Valorys, and Voxyn are registered trademarks of Vterra, Inc., a California corporation. The Apache 2.0 license permits use of the framework content. It does not grant rights to use these trademarks in ways that imply official affiliation or endorsement without permission.
+Vterra, Valorys, Voxyn, and GSO are trademarks of Vterra, Inc., a California
+corporation. The Apache 2.0 license permits use of the framework content. It
+does not grant rights to use these marks in ways that imply official affiliation
+or endorsement.
 
 ---
 
 ## Contact
 
-[vterra.ai](https://vterra.ai)
+colin@vterra.ai — response within 72 hours.
 
-We are a small organization releasing this framework as a contribution to the field. We read everything and respond when we can.
+[vterra.ai](https://vterra.ai)
