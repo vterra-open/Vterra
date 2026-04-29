@@ -1,4 +1,4 @@
-export default async function handler(req, res) {
+module.exports = async function handler(req, res) {
   const { personaId, replicaId } = req.query;
   if (!personaId || !replicaId) {
     return res.status(400).json({ error: 'Missing personaId or replicaId' });
