@@ -15,7 +15,7 @@ Community input is welcome via [GitHub Discussions](https://github.com/vterra-op
 
 Allow visitors to select their preferred language before or during engagement with the Torvin demo agent and the Vterra expert agent (Ask Voxyn). The selected language governs both the agent's spoken output and any on-screen text.
 
-**Scope:** Both live avatar agents (Matilda and Jon). UI language selector on the demo and Ask Voxyn pages. ElevenLabs language configuration per session.
+**Scope:** All live avatar agents. UI language selector on the demo and Ask Voxyn pages. ElevenLabs language configuration per session.
 
 ---
 
@@ -24,7 +24,7 @@ Allow visitors to select their preferred language before or during engagement wi
 
 Detect the visitor's language automatically from their first spoken input and switch the agent's response language to match — without requiring the visitor to select a language manually.
 
-**Scope:** Both live avatar agents. Requires ElevenLabs language detection capability or a pre-processing layer that identifies language before the agent responds.
+**Scope:** All live avatar agents. Requires ElevenLabs language detection capability or a pre-processing layer that identifies language before the agent responds.
 
 ---
 
