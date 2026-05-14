@@ -35,7 +35,7 @@ Detect the visitor's language automatically from their first spoken input and sw
 
 Provide a text prompt field for visitors who prefer not to interact through speech — whether due to environment, accessibility needs, or personal preference. The agent responds in the same advisory voice regardless of input method.
 
-**Scope:** Both live avatar agents. Text input should be available as an optional toggle, not a replacement for the default voice interface.
+**Scope:** All live avatar agents. Text input should be available as an optional toggle, not a replacement for the default voice interface.
 
 ---
 
@@ -44,7 +44,7 @@ Provide a text prompt field for visitors who prefer not to interact through spee
 
 Display a visible, scrollable transcript of the conversation as it unfolds, and allow the visitor to download the full transcript at the end of the session. The transcript should capture both visitor input and agent responses with timestamps.
 
-**Scope:** Both live avatar agents. Transcript panel should be collapsible so it does not compete with the avatar interface. Download format: PDF or plain text.
+**Scope:** All live avatar agents. Transcript panel should be collapsible so it does not compete with the avatar interface. Download format: PDF or plain text.
 
 ---
 
@@ -55,7 +55,7 @@ Display a visible, scrollable transcript of the conversation as it unfolds, and 
 
 Enable agents to recognize when a visitor uses a trade name or technical term that is phonetically close — but not identical — to the trained pronunciation. For example, a visitor who says "Vuh-TER-uh" instead of "vuh-TAIR-uh" should be understood correctly rather than triggering a misrecognition or an awkward clarification.
 
-**Scope:** Both live avatar agents. This may be addressable through ElevenLabs pronunciation settings, a custom vocabulary layer, or a post-processing recognition step. Requires testing across the primary Vterra trade names: Vterra, Valorys, Voxyn, GSO.
+**Scope:** All live avatar agents. This may be addressable through ElevenLabs pronunciation settings, a custom vocabulary layer, or a post-processing recognition step. Requires testing across the primary Vterra trade names: Vterra, Valorys, Voxyn, GSO.
 
 ---
 
