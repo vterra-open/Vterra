@@ -1,0 +1,157 @@
+<style>
+  .vterra-matrix-wrap {
+    width: 100%;
+    max-width: 54rem;
+    margin: 0 auto;
+    overflow-x: auto;
+    font-family: inherit;
+  }
+
+  .vterra-matrix {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 0.5rem;
+    overflow: hidden;
+  }
+
+  /* ── HEADER ── */
+  .vterra-matrix thead tr {
+    background-color: #051C2C;
+  }
+
+  .vterra-matrix thead tr th {
+    padding: 0.9rem 1.25rem;
+    text-align: center;
+    font-weight: 700;
+    font-size: 0.8rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border: 0.0625rem solid rgba(255, 255, 255, 0.12);
+    background-color: #051C2C;
+  }
+
+  .vterra-matrix thead tr th:first-child {
+    text-align: left;
+    width: 28%;
+  }
+
+  /* Vterra header cell */
+  .vterra-matrix thead tr th.col-vterra {
+    background-color: #163E93;
+    color: #FFFFFF;
+    border-top: 0.1875rem solid #30A3DA;
+    border-left: 0.1875rem solid #30A3DA;
+    border-right: 0.1875rem solid #30A3DA;
+    border-bottom: none;
+  }
+
+  /* ── ALL BODY ROWS — explicit light backgrounds, no alternating dark ── */
+  .vterra-matrix tbody tr:nth-child(odd) {
+    background-color: #F2F6F9;
+  }
+
+  .vterra-matrix tbody tr:nth-child(even) {
+    background-color: #FFFFFF;
+  }
+
+  /* ── ROW LABEL COLUMN ── */
+  .vterra-matrix tbody tr td:first-child {
+    font-weight: 600;
+    font-size: 0.95rem;
+    text-align: left;
+    padding: 1rem 1.25rem;
+    color: #051C2C;
+    border-right: 0.125rem solid #DDE3EC;
+    white-space: nowrap;
+    width: 28%;
+  }
+
+  /* ── DATA CELLS ── */
+  .vterra-matrix tbody tr td {
+    padding: 1rem 1.25rem;
+    text-align: center;
+    font-size: 1.05rem;
+    color: #051C2C;
+    border: 0.0625rem solid #DDE3EC;
+    background-color: inherit;
+  }
+
+  /* ── VTERRA COLUMN — #30A3DA at 18% over white = #D5EEF8 ── */
+  .vterra-matrix tbody tr td.col-vterra {
+    background-color: #D5EEF8;
+    font-weight: 700;
+    color: #051C2C;
+    border-left: 0.1875rem solid #30A3DA;
+    border-right: 0.1875rem solid #30A3DA;
+    border-top: 0.0625rem solid #30A3DA;
+    border-bottom: 0.0625rem solid #30A3DA;
+  }
+
+  .vterra-matrix tbody tr:last-child td.col-vterra {
+    border-bottom: 0.1875rem solid #30A3DA;
+  }
+
+  /* ── SYMBOLS ── */
+  .sym-check   { color: #1A7A48; font-size: 1.15rem; font-weight: 700; }
+  .sym-cross   { color: #B02A2A; font-size: 1.15rem; font-weight: 700; }
+  .sym-partial { color: #8A5C00; font-size: 0.8rem;  font-weight: 600; letter-spacing: 0.02em; }
+
+  /* ── MOBILE ── */
+  @media (max-width: 37.5rem) {
+    .vterra-matrix tbody tr td,
+    .vterra-matrix thead tr th {
+      padding: 0.75rem 0.6rem;
+      font-size: 0.85rem;
+    }
+    .vterra-matrix thead tr th {
+      font-size: 0.7rem;
+    }
+  }
+</style>
+
+<div class="vterra-matrix-wrap">
+  <table class="vterra-matrix" role="table" aria-label="Platform comparison matrix">
+    <thead>
+      <tr>
+        <th scope="col"></th>
+        <th scope="col">AI Tools</th>
+        <th scope="col">Consultants</th>
+        <th scope="col">Frameworks</th>
+        <th scope="col" class="col-vterra">Vterra</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Value-Aligned AI</td>
+        <td><span class="sym-check"   aria-label="Yes">✓</span></td>
+        <td><span class="sym-cross"   aria-label="No">✗</span></td>
+        <td><span class="sym-cross"   aria-label="No">✗</span></td>
+        <td class="col-vterra"><span class="sym-check" aria-label="Yes">✓</span></td>
+      </tr>
+      <tr>
+        <td>Org Clarity</td>
+        <td><span class="sym-cross"   aria-label="No">✗</span></td>
+        <td><span class="sym-partial" aria-label="Partial">Partial</span></td>
+        <td><span class="sym-check"   aria-label="Yes">✓</span></td>
+        <td class="col-vterra"><span class="sym-check" aria-label="Yes">✓</span></td>
+      </tr>
+      <tr>
+        <td>Advisory Access</td>
+        <td><span class="sym-cross"   aria-label="No">✗</span></td>
+        <td><span class="sym-check"   aria-label="Yes">✓</span></td>
+        <td><span class="sym-cross"   aria-label="No">✗</span></td>
+        <td class="col-vterra"><span class="sym-check" aria-label="Yes">✓</span></td>
+      </tr>
+      <tr>
+        <td>Cost</td>
+        <td>Varies</td>
+        <td>High</td>
+        <td>Varies</td>
+        <td class="col-vterra">Free</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
