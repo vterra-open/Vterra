@@ -1,0 +1,222 @@
+<style>
+#voxyn-diagram-wrap {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  width: 100%;
+  max-width: 780px;
+  margin: 0 auto;
+}
+#voxyn-diagram-wrap svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+#voxyn-diagram-wrap .vd-node {
+  cursor: pointer;
+}
+#voxyn-diagram-wrap .vd-node:hover rect {
+  filter: brightness(1.12);
+}
+#voxyn-info-panel {
+  display: none;
+  margin-top: 24px;
+  border-left: 4px solid #30a3da;
+  background: #f5f5f5;
+  border-radius: 0 8px 8px 0;
+  padding: 18px 22px;
+}
+#voxyn-info-panel.visible {
+  display: block;
+}
+#voxyn-info-title {
+  font-size: 15px;
+  font-weight: 600;
+  color: #052c2c;
+  margin: 0 0 6px 0;
+}
+#voxyn-info-body {
+  font-size: 14px;
+  color: #333;
+  line-height: 1.6;
+  margin: 0 0 10px 0;
+}
+#voxyn-info-meta {
+  font-size: 12px;
+  color: #666;
+  margin: 0;
+}
+#voxyn-info-close {
+  float: right;
+  background: none;
+  border: none;
+  font-size: 18px;
+  color: #999;
+  cursor: pointer;
+  margin: -4px -4px 0 0;
+  line-height: 1;
+}
+#voxyn-info-close:hover {
+  color: #052c2c;
+}
+</style>
+
+<div id="voxyn-diagram-wrap">
+
+<svg viewBox="0 0 680 700" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Voxyn full stack architecture</title>
+<desc>Seven-layer diagram: visitor browser, demo selector, Vercel API bridge, HeyGen LiveAvatar platform branching to Claude Sonnet and HeyGen voice engine, with Pinecone vector DB below Claude.</desc>
+<defs>
+  <marker id="vd-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </marker>
+  <style>
+    .vd-wt  { fill: #ffffff; font-size: 14px; font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    .vd-wts { fill: #ffffff; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    .vd-wt3 { fill: rgba(255,255,255,0.65); font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    .vd-dk  { fill: #052c2c; font-size: 14px; font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    .vd-lbl { fill: #444; font-size: 11px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    .vd-lbl3 { fill: #888; font-size: 11px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    .vd-node { cursor: pointer; }
+    .vd-node:hover rect { opacity: 0.88; }
+  </style>
+</defs>
+
+<!-- Visitor browser -->
+<g class="vd-node" onclick="vdShow('browser')">
+  <rect x="215" y="24" width="250" height="44" rx="8" fill="#f5f5f5" stroke="#052c2c" stroke-width="1.5"/>
+  <text x="340" y="46" text-anchor="middle" dominant-baseline="central" class="vd-dk">Visitor browser</text>
+</g>
+
+<line x1="340" y1="68" x2="340" y2="104" stroke="#3a5bcc" stroke-width="1.5" marker-end="url(#vd-arrow)"/>
+
+<!-- Demo selector page -->
+<g class="vd-node" onclick="vdShow('demo')">
+  <rect x="130" y="104" width="420" height="76" rx="8" fill="#3a5bcc"/>
+  <text x="340" y="122" text-anchor="middle" dominant-baseline="central" class="vd-wt">Demo selector page</text>
+  <text x="340" y="142" text-anchor="middle" dominant-baseline="central" class="vd-wts">scenario + avatar + language selection</text>
+  <text x="340" y="162" text-anchor="middle" dominant-baseline="central" class="vd-wt3">demo.vterra.ai · WordPress</text>
+</g>
+
+<line x1="340" y1="180" x2="340" y2="216" stroke="#163e93" stroke-width="1.5" marker-end="url(#vd-arrow)"/>
+
+<!-- Vercel API bridge -->
+<g class="vd-node" onclick="vdShow('vercel')">
+  <rect x="130" y="216" width="420" height="76" rx="8" fill="#163e93"/>
+  <text x="340" y="234" text-anchor="middle" dominant-baseline="central" class="vd-wt">Vercel API bridge</text>
+  <text x="340" y="254" text-anchor="middle" dominant-baseline="central" class="vd-wts">creates HeyGen LiveAvatar session</text>
+  <text x="340" y="274" text-anchor="middle" dominant-baseline="central" class="vd-wt3">vercel.com · serverless function</text>
+</g>
+
+<line x1="340" y1="292" x2="340" y2="328" stroke="#052c2c" stroke-width="1.5" marker-end="url(#vd-arrow)"/>
+
+<!-- HeyGen LiveAvatar platform -->
+<g class="vd-node" onclick="vdShow('heygen')">
+  <rect x="40" y="328" width="600" height="84" rx="8" fill="#052c2c"/>
+  <text x="340" y="350" text-anchor="middle" dominant-baseline="central" class="vd-wt">HeyGen LiveAvatar platform</text>
+  <text x="340" y="370" text-anchor="middle" dominant-baseline="central" class="vd-wts">real-time video · avatar rendering · turn-taking · session management</text>
+  <text x="340" y="392" text-anchor="middle" dominant-baseline="central" class="vd-wt3">heygen.com · managed cloud</text>
+</g>
+
+<!-- Branch arrows -->
+<path d="M340,412 L340,434 L180,434 L180,456" fill="none" stroke="#30a3da" stroke-width="1.5" marker-end="url(#vd-arrow)"/>
+<path d="M340,412 L340,434 L500,434 L500,456" fill="none" stroke="#3a5bcc" stroke-width="1.5" marker-end="url(#vd-arrow)"/>
+
+<!-- Claude Sonnet -->
+<g class="vd-node" onclick="vdShow('claude')">
+  <rect x="30" y="456" width="300" height="80" rx="8" fill="#30a3da"/>
+  <text x="180" y="476" text-anchor="middle" dominant-baseline="central" class="vd-wt">Claude Sonnet</text>
+  <text x="180" y="496" text-anchor="middle" dominant-baseline="central" class="vd-wts">reasoning + RAG queries</text>
+  <text x="180" y="516" text-anchor="middle" dominant-baseline="central" class="vd-wt3">api.anthropic.com · Vterra workspace</text>
+</g>
+
+<!-- HeyGen voice engine -->
+<g class="vd-node" onclick="vdShow('voice')">
+  <rect x="360" y="456" width="280" height="80" rx="8" fill="#3a5bcc"/>
+  <text x="500" y="476" text-anchor="middle" dominant-baseline="central" class="vd-wt">ElevenLabs voice engine</text>
+  <text x="500" y="496" text-anchor="middle" dominant-baseline="central" class="vd-wts">voice synthesis + rendering</text>
+  <text x="500" y="516" text-anchor="middle" dominant-baseline="central" class="vd-wt3">elevenlabs.io · included in platform</text>
+</g>
+
+<!-- Claude ↕ Pinecone -->
+<line x1="180" y1="536" x2="180" y2="576" stroke="#30a3da" stroke-width="1.5" marker-end="url(#vd-arrow)" marker-start="url(#vd-arrow)"/>
+<text x="192" y="557" dominant-baseline="central" class="vd-lbl">query / retrieve</text>
+
+<!-- Pinecone vector DB -->
+<g class="vd-node" onclick="vdShow('pinecone')">
+  <rect x="30" y="576" width="300" height="80" rx="8" fill="#163e93"/>
+  <text x="180" y="596" text-anchor="middle" dominant-baseline="central" class="vd-wt">Pinecone vector DB</text>
+  <text x="180" y="616" text-anchor="middle" dominant-baseline="central" class="vd-wts">semantic chunk retrieval</text>
+  <text x="180" y="636" text-anchor="middle" dominant-baseline="central" class="vd-wt3">pinecone.io · managed cloud</text>
+</g>
+
+<!-- Ingestion labels -->
+<text x="346" y="591" class="vd-lbl">preprocessed source</text>
+<text x="346" y="607" class="vd-lbl">documents → ingestion</text>
+<text x="346" y="623" class="vd-lbl3">Valorys book · scenarios · Q&amp;A</text>
+
+<!-- Dashed ingestion arrow -->
+<line x1="594" y1="637" x2="332" y2="637" stroke="#052c2c" stroke-width="1.5" stroke-dasharray="6 4" marker-end="url(#vd-arrow)"/>
+</svg>
+
+<div id="voxyn-info-panel">
+  <button id="voxyn-info-close" onclick="vdClose()">&#215;</button>
+  <p id="voxyn-info-title"></p>
+  <p id="voxyn-info-body"></p>
+  <p id="voxyn-info-meta"></p>
+</div>
+
+</div>
+
+<script>
+var vdContent = {
+  browser: {
+    title: "Visitor browser",
+    body: "The entry point. A visitor lands on demo.vterra.ai and initiates a Voxyn conversation directly in their browser — no download, app, or login required. The session runs entirely over WebRTC.",
+    meta: "Supports Chrome, Edge, Safari, Firefox · desktop and mobile"
+  },
+  demo: {
+    title: "Demo selector page",
+    body: "A WordPress page on demo.vterra.ai where the visitor selects their scenario (e.g. Torvin Insurance), preferred avatar, and language before the session begins. Selection parameters are passed to the Vercel API bridge to configure the session.",
+    meta: "demo.vterra.ai · WordPress · Elementor Pro"
+  },
+  vercel: {
+    title: "Vercel API bridge",
+    body: "A lightweight serverless function that receives the visitor's selections and securely calls the HeyGen API to create a LiveAvatar session. API credentials are kept server-side — never exposed to the client browser.",
+    meta: "vercel.com · Node.js serverless function · environment variables for secrets"
+  },
+  heygen: {
+    title: "HeyGen LiveAvatar platform",
+    body: "The real-time rendering layer. HeyGen streams a photorealistic avatar via WebRTC that listens, responds, and speaks with natural lip-sync and micro-expressions. Handles all turn-taking, session state, and video delivery. Connects to Claude as the external LLM backend.",
+    meta: "heygen.com · managed cloud · WebRTC · LiveAvatar API"
+  },
+  claude: {
+    title: "Claude Sonnet",
+    body: "The reasoning engine behind Voxyn. Claude receives the visitor's input, queries Pinecone for relevant context from the Vterra knowledge base, and generates a grounded, framework-aligned response. The response text is returned to HeyGen for voice rendering.",
+    meta: "api.anthropic.com · Claude Sonnet · Vterra system prompt + RAG context"
+  },
+  voice: {
+    title: "ElevenLabs voice engine",
+    body: "ElevenLabs provides the conversational AI engine — handling voice synthesis, the LLM reasoning layer, and the knowledge base Voxyn draws from. It connects to HeyGen LiveAvatar, which renders the avatar's lip movements and facial expressions in real time from ElevenLabs' audio output.",
+    meta: "elevenlabs.io · conversational AI + voice synthesis · real-time audio to HeyGen"
+  },
+  pinecone: {
+    title: "Pinecone vector DB",
+    body: "The knowledge memory layer. The Vterra knowledge base — Valorys book, Voxyn identity document, Torvin case study, Q&A pairs, and GSOs — is pre-processed into semantic chunks, embedded, and stored in Pinecone. At query time, Claude retrieves the most contextually relevant chunks to ground each response.",
+    meta: "pinecone.io · managed cloud · pre-indexed at setup · queried at runtime"
+  }
+};
+
+function vdShow(id) {
+  var c = vdContent[id];
+  if (!c) return;
+  document.getElementById('voxyn-info-title').textContent = c.title;
+  document.getElementById('voxyn-info-body').textContent = c.body;
+  document.getElementById('voxyn-info-meta').textContent = c.meta;
+  var panel = document.getElementById('voxyn-info-panel');
+  panel.classList.add('visible');
+  panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
+function vdClose() {
+  document.getElementById('voxyn-info-panel').classList.remove('visible');
+}
+</script>
