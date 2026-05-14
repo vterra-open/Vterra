@@ -1,0 +1,159 @@
+<style>
+  .cs-wrap { padding: 1rem 0; font-family: var(--font-sans); }
+  .cs-section { margin-bottom: 2rem; }
+  .cs-section-label { font-size: 11px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.08em; color: var(--color-text-tertiary); margin-bottom: 10px; }
+  .cs-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; }
+  .cs-card { background: var(--color-background-primary); border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-lg); padding: 14px 16px; }
+  .cs-card-header { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+  .cs-icon { width: 32px; height: 32px; border-radius: 8px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 15px; }
+  .cs-name { font-size: 14px; font-weight: 500; color: var(--color-text-primary); }
+  .cs-role { font-size: 12px; color: var(--color-text-secondary); margin-bottom: 6px; }
+  .cs-rule { font-size: 12px; color: var(--color-text-primary); line-height: 1.5; }
+  .cs-tag { display: inline-block; font-size: 11px; padding: 2px 8px; border-radius: 4px; margin-top: 6px; }
+  .tag-config { background: #E1F5EE; color: #0F6E56; }
+  .tag-code { background: #E6F1FB; color: #185FA5; }
+  .tag-host { background: #EEEDFE; color: #534AB7; }
+  .tag-infra { background: #FAEEDA; color: #854F0B; }
+  .tag-content { background: #FAECE7; color: #993C1D; }
+  @media (prefers-color-scheme: dark) {
+    .tag-config { background: #085041; color: #9FE1CB; }
+    .tag-code { background: #0C447C; color: #B5D4F4; }
+    .tag-host { background: #3C3489; color: #CECBF6; }
+    .tag-infra { background: #633806; color: #FAC775; }
+    .tag-content { background: #712B13; color: #F5C4B3; }
+  }
+  .cs-divider { border: none; border-top: 0.5px solid var(--color-border-tertiary); margin: 1.5rem 0; }
+  .legend { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 1.5rem; }
+  .legend-item { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--color-text-secondary); }
+  .legend-dot { width: 10px; height: 10px; border-radius: 3px; }
+</style>
+<div class="cs-wrap">
+  <h2 style="sr-only">Vterra Platform Overview</h2>
+
+  <div class="legend">
+    <div class="legend-item"><div class="legend-dot" style="background:#1D9E75"></div> Configure here</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#185FA5"></div> Code lives here</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#534AB7"></div> Hosts the UI</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#854F0B"></div> Infrastructure</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#993C1D"></div> Content / site</div>
+  </div>
+
+  <div class="cs-section">
+    <div class="cs-section-label">Avatar agents — both Matilda and Jon</div>
+    <div class="cs-grid">
+
+      <div class="cs-card">
+        <div class="cs-card-header">
+          <div class="cs-icon" style="background:#E1F5EE"><i class="ti ti-microphone" style="color:#0F6E56" aria-hidden="true"></i></div>
+          <div class="cs-name">ElevenLabs</div>
+        </div>
+        <div class="cs-role">Conversation engine</div>
+        <div class="cs-rule">Where the agent thinks and speaks. System prompt, knowledge base documents, and voice settings all live here. Changes made in the ElevenLabs dashboard are live immediately — no deploy needed.</div>
+        <span class="cs-tag tag-config">configure here</span>
+      </div>
+
+      <div class="cs-card">
+        <div class="cs-card-header">
+          <div class="cs-icon" style="background:#E1F5EE"><i class="ti ti-video" style="color:#0F6E56" aria-hidden="true"></i></div>
+          <div class="cs-name">HeyGen LiveAvatar</div>
+        </div>
+        <div class="cs-role">Avatar rendering</div>
+        <div class="cs-rule">Renders the humanoid face and lip-sync video stream. Connects to ElevenLabs via the agent ID and secret. Avatar appearance, Brand Glossary (pronunciation), and session settings live here.</div>
+        <span class="cs-tag tag-config">configure here</span>
+      </div>
+
+      <div class="cs-card">
+        <div class="cs-card-header">
+          <div class="cs-icon" style="background:#E6F1FB"><i class="ti ti-server" style="color:#185FA5" aria-hidden="true"></i></div>
+          <div class="cs-name">Vercel</div>
+        </div>
+        <div class="cs-role">API bridge + web host</div>
+        <div class="cs-rule">Hosts the session.js API file that connects HeyGen to ElevenLabs, and serves the agent web page to visitors. Code changes require a redeploy. Config changes in ElevenLabs or HeyGen do not.</div>
+        <span class="cs-tag tag-host">hosts the UI</span>
+      </div>
+
+      <div class="cs-card">
+        <div class="cs-card-header">
+          <div class="cs-icon" style="background:#E6F1FB"><i class="ti ti-brand-github" style="color:#185FA5" aria-hidden="true"></i></div>
+          <div class="cs-name">GitHub</div>
+        </div>
+        <div class="cs-role">Code repository</div>
+        <div class="cs-rule">Stores the code Vercel deploys. Two repos: vterra-open/torvin-liveavatar (Jon) and the Vterra expert repo (Matilda). Push a code change to GitHub → Vercel auto-redeploys. You only touch GitHub when the code itself changes.</div>
+        <span class="cs-tag tag-code">code lives here</span>
+      </div>
+
+    </div>
+  </div>
+
+  <hr class="cs-divider">
+
+  <div class="cs-section">
+    <div class="cs-section-label">Vterra.ai website</div>
+    <div class="cs-grid">
+
+      <div class="cs-card">
+        <div class="cs-card-header">
+          <div class="cs-icon" style="background:#FAECE7"><i class="ti ti-layout" style="color:#993C1D" aria-hidden="true"></i></div>
+          <div class="cs-name">10Web</div>
+        </div>
+        <div class="cs-role">WordPress hosting</div>
+        <div class="cs-rule">Hosts the vterra.ai WordPress site. Manage server, backups, and site-level settings here. This is the control panel for the hosting environment itself.</div>
+        <span class="cs-tag tag-content">content / site</span>
+      </div>
+
+      <div class="cs-card">
+        <div class="cs-card-header">
+          <div class="cs-icon" style="background:#FAECE7"><i class="ti ti-pencil" style="color:#993C1D" aria-hidden="true"></i></div>
+          <div class="cs-name">Elementor Pro</div>
+        </div>
+        <div class="cs-role">Page builder</div>
+        <div class="cs-rule">Where all vterra.ai page design and content editing happens — inside the WordPress dashboard. This is where you edit page copy, layouts, hero sections, and the Single Post template.</div>
+        <span class="cs-tag tag-content">content / site</span>
+      </div>
+
+      <div class="cs-card">
+        <div class="cs-card-header">
+          <div class="cs-icon" style="background:#FAEEDA"><i class="ti ti-world" style="color:#854F0B" aria-hidden="true"></i></div>
+          <div class="cs-name">Dynadot</div>
+        </div>
+        <div class="cs-role">Domain registrar</div>
+        <div class="cs-rule">Owns and renews the vterra.ai domain name. Rarely touched — only for domain renewals or if DNS nameservers ever need to change.</div>
+        <span class="cs-tag tag-infra">infrastructure</span>
+      </div>
+
+      <div class="cs-card">
+        <div class="cs-card-header">
+          <div class="cs-icon" style="background:#FAEEDA"><i class="ti ti-network" style="color:#854F0B" aria-hidden="true"></i></div>
+          <div class="cs-name">AWS Route 53</div>
+        </div>
+        <div class="cs-role">DNS management</div>
+        <div class="cs-rule">Controls where vterra.ai domain traffic is directed. Currently inaccessible — account recovery in progress. Blocking SSL for demo.vterra.ai until resolved.</div>
+        <span class="cs-tag tag-infra">infrastructure</span>
+      </div>
+
+      <div class="cs-card">
+        <div class="cs-card-header">
+          <div class="cs-icon" style="background:#FAEEDA"><i class="ti ti-mail" style="color:#854F0B" aria-hidden="true"></i></div>
+          <div class="cs-name">IONOS</div>
+        </div>
+        <div class="cs-role">Email hosting</div>
+        <div class="cs-rule">Hosts colin@vterra.ai and other Vterra email addresses. Separate from the website — email continues to work regardless of site changes.</div>
+        <span class="cs-tag tag-infra">infrastructure</span>
+      </div>
+
+    </div>
+  </div>
+
+  <hr class="cs-divider">
+
+  <div style="background: var(--color-background-secondary); border-radius: var(--border-radius-lg); padding: 14px 16px;">
+    <div style="font-size: 12px; font-weight: 500; color: var(--color-text-secondary); margin-bottom: 8px;">Quick rule</div>
+    <div style="font-size: 13px; color: var(--color-text-primary); line-height: 1.6;">
+      Changing what the agent <em>says or knows</em> → ElevenLabs dashboard, live immediately.<br>
+      Changing how the avatar <em>looks or sounds</em> → HeyGen dashboard, live immediately.<br>
+      Changing the website <em>pages or copy</em> → Elementor / WordPress, live on save.<br>
+      Changing <em>code</em> → GitHub commit → Vercel auto-redeploys.
+    </div>
+  </div>
+
+</div>
