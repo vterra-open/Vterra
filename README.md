@@ -55,34 +55,26 @@ The value amplifiers are the operational engine of Valorys — behavioral schema
 1. **Distributed Authority** — Empower personnel through a hybrid hierarchy-network model that improves decision-making speed, reduces operational cost, and deepens employee engagement.
 2. **Market Intelligence** — Use empirically grounded, micro-focused market analytics to build innovative strategies and value propositions across the full customer spectrum.
 3. **Strategy Expression** — Communicate strategic imperatives with clarity at every organizational level through a unified GSO framework.
-4. **Value Proposition** — Design customer experiences around their full transformational journey, using cross-functional teams to uncover latent, unspoken needs.
+4. **Value Proposition** — Design customer experiences around their full transformational journey, using cross-functional teams to uncover latent, unspoken needs.\
 
 **Under Value:**
-5. **Business Capabilities** — Rapidly build, manage, and refine the modular enterprise competencies required to achieve strategic objectives.
-6. **Capacity Allocation** — Replace aspirational assumptions with institutional realities, directing scarce resources toward the highest-priority strategic imperatives.
-7. **Value Streams** — Optimize operational flow, delivery excellence, and return on investment through the primary value-generation mechanism of the framework.
-8. **Impact Metrics** — Monitor financial performance and value impact within each work cycle through near real-time analytics.
 
-**Under Respect:**
-9. **Advanced Technologies** — Adopt emerging automation thoughtfully to cultivate continuous learning, navigate complexity, and leverage interconnectedness for sustainable growth.
-2. **Leadership & Talent** — Build collaborative alliances between management and workers through adaptive leadership and strategic skill development.
-3. **Strategy Expression** — Communicate strategic imperatives with clarity at every organizational level through a unified GSO framework.
-4. **Value Proposition** — Design customer experiences around their full transformational journey, using cross-functional teams to uncover latent, unspoken needs.
-
-
-
-
-
-**Under Value:**
-5. 
-
-
+<ol start="5">
+<li><b>Business Capabilities</b> — Rapidly build, manage, and refine the modular enterprise competencies required to achieve strategic objectives.</li>
+<li><b>Capacity Allocation</b> — Replace aspirational assumptions with institutional realities, directing scarce resources toward the highest-priority strategic imperatives.</li>
+<li><b>Value Streams</b> — Optimize operational flow, delivery excellence, and return on investment through the primary value-generation mechanism of the framework.</li>
+<li><b>Impact Metrics</b> — Monitor financial performance and value impact within each work cycle through near real-time analytics.</li>
+</ol>
 
 **Under Respect:**
 
-10. 
-11. **Feedback & Learning** — Use abbreviated operational cycles and closed-loop systems to generate rapid feedback and accelerated learning throughout delivery.
-12. **Value Culture** — Sustain a value-centered organizational ethos through authentic communication, reciprocal respect, and value-driven economic principles.
+<ol start="9">
+<li><b>Advanced Technologies</b> — Adopt emerging automation thoughtfully to cultivate continuous learning, navigate complexity, and leverage interconnectedness for sustainable growth.</li>
+<li><b>Leadership & Talent</b> — Build collaborative alliances between management and workers through adaptive leadership and strategic skill development.</li>
+<li><b>Feedback & Learning</b> — Use abbreviated operational cycles and closed-loop systems to generate rapid feedback and accelerated learning throughout delivery.</li>
+<li><b>Value Culture</b> — Sustain a value-centered organizational ethos through authentic communication, reciprocal respect, and value-driven economic principles.</li>
+</ol>
+
 
 ### The Four Central Cycles
 
