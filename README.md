@@ -97,7 +97,7 @@ Traditional consulting is episodic: advisors arrive, deliver recommendations, an
 
 **To experience Voxyn in action**, see the Torvin Insurance Group demo — a realistic deployment of the full Vterra-Valorys-Voxyn platform in a fictional organizational context:
 
-👉 [**Launch the Torvin Demo at vterra.ai**](https://vterra.ai)
+<a href="https://vterra.ai/demo" target="_blank">👉 <strong>Launch the Torvin Demo at vterra.ai</strong></a>
 
 ---
 
