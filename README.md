@@ -105,7 +105,7 @@ Traditional consulting is episodic: advisors arrive, deliver recommendations, an
 
 *Take Control By Giving Up Control: The Value-Centered Fast Track to Organizational Growth* is the foundational text of the Valorys system. Written by Colin O'Neill and published in 2024, it documents all twelve value amplifiers through practical frameworks, empirical research, and real-world case studies.
 
-The book is available as a **free PDF download** at [vterra.ai](https://vterra.ai).
+The book is available as a **free PDF download** at [vterra.ai](https://vterra.ai/book).
 
 **ISBN:** 979-8-9892047-1-7
 **Publisher:** VTI Press, San Diego, CA
