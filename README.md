@@ -31,7 +31,7 @@ Most organizational frameworks are locked behind consulting fees, enterprise sof
 
 Vterra exists to close that gap permanently.
 
-The Valorys system was developed by Colin O'Neill, a graduate of the United States Naval Academy and former U.S. Marine Corps officer, over more than five decades of organizational consulting. The decision to release it as open-source infrastructure — framework, book, and AI capability together — reflects a core conviction: that value creation belongs to everyone, not to those who can afford to license it.
+The Valorys system was developed by Colin O'Neill, a graduate of the United States Naval Academy and former U.S. Marine Corps officer, over more than five decades of organizational consulting. The decision to release it as open-source infrastructure — framework, book, and AI capability together — reflects a core conviction: that value creation belongs to everyone, not only to those who can afford to license it.
 
 ---
 
@@ -41,7 +41,7 @@ Valorys organizes value creation around **three governing principles** and **twe
 
 ### Three Governing Principles
 
-**Clarity** — Strategic intent is worthless without the architecture to transmit it. Clarity ensures that every level of an organization understands not just its tactical responsibilities, but the strategic goals underlying them. Valorys uses a Goal–Strategy–Outcomes (GSO) framework to achieve this transmission across all organizational strata.
+**Clarity** — Strategic intent is ineffictive without the architecture to transmit it. Clarity ensures that every level of an organization understands not just its tactical responsibilities, but the strategic goals underlying them. Valorys uses the Goal–Strategy–Outcomes (GSO) framework to achieve this transmission across all organizational strata.
 
 **Value** — Realized value — not perceived, not assumed — is the only honest measure of organizational performance. Value is multidimensional: financial for investors, experiential for customers, purposeful for employees, and societal for communities. Valorys positions value as the central tenet of enterprise function, not an afterthought.
 
@@ -56,6 +56,9 @@ The value amplifiers are the operational engine of Valorys — behavioral schema
 2. **Market Intelligence** — Use empirically grounded, micro-focused market analytics to build innovative strategies and value propositions across the full customer spectrum.
 3. **Strategy Expression** — Communicate strategic imperatives with clarity at every organizational level through a unified GSO framework.
 4. **Value Proposition** — Design customer experiences around their full transformational journey, using cross-functional teams to uncover latent, unspoken needs.
+Valorys organizes organizational activity into four perpetual cycles that link boardroom intent to frontline execution:
+
+
 
 **Under Value:**
 5. **Business Capabilities** — Rapidly build, manage, and refine the modular enterprise competencies required to achieve strategic objectives.
@@ -71,7 +74,8 @@ The value amplifiers are the operational engine of Valorys — behavioral schema
 
 ### The Four Central Cycles
 
-Valorys organizes organizational activity into four perpetual cycles that link boardroom intent to frontline execution:
+
+
 
 - **Think** — Executive ideation, goal crystallization, and outcomes-based strategic reasoning
 - **Plan** — Growth orchestration, enterprise alignment, and structured sequencing of value delivery
