@@ -56,26 +56,6 @@ The value amplifiers are the operational engine of Valorys — behavioral schema
 2. **Market Intelligence** — Use empirically grounded, micro-focused market analytics to build innovative strategies and value propositions across the full customer spectrum.
 3. **Strategy Expression** — Communicate strategic imperatives with clarity at every organizational level through a unified GSO framework.
 4. **Value Proposition** — Design customer experiences around their full transformational journey, using cross-functional teams to uncover latent, unspoken needs.
-Valorys organizes organizational activity into four perpetual cycles that link boardroom intent to frontline execution:
-
-
-**Under Clarity:**
-1. **Distributed Authority** — Empower personnel through a hybrid hierarchy-network model that improves decision-making speed, reduces operational cost, and deepens employee engagement.
-2. **Market Intelligence** — Use empirically grounded, micro-focused market analytics to build innovative strategies and value propositions across the full customer spectrum.
-3. **Strategy Expression** — Communicate strategic imperatives with clarity at every organizational level through a unified GSO framework.
-4. **Value Proposition** — Design customer experiences around their full transformational journey, using cross-functional teams to uncover latent, unspoken needs.
-Valorys organizes organizational activity into four perpetual cycles that link boardroom intent to frontline execution:
-
-
-
-**Under Clarity:**
-1. **Distributed Authority** — Empower personnel through a hybrid hierarchy-network model that improves decision-making speed, reduces operational cost, and deepens employee engagement.
-2. **Market Intelligence** — Use empirically grounded, micro-focused market analytics to build innovative strategies and value propositions across the full customer spectrum.
-3. **Strategy Expression** — Communicate strategic imperatives with clarity at every organizational level through a unified GSO framework.
-4. **Value Proposition** — Design customer experiences around their full transformational journey, using cross-functional teams to uncover latent, unspoken needs.
-Valorys organizes organizational activity into four perpetual cycles that link boardroom intent to frontline execution:
-
-
 
 
 **Under Value:**
@@ -83,6 +63,22 @@ Valorys organizes organizational activity into four perpetual cycles that link b
 6. **Capacity Allocation** — Replace aspirational assumptions with institutional realities, directing scarce resources toward the highest-priority strategic imperatives.
 7. **Value Streams** — Optimize operational flow, delivery excellence, and return on investment through the primary value-generation mechanism of the framework.
 8. **Impact Metrics** — Monitor financial performance and value impact within each work cycle through near real-time analytics.
+
+
+**Under Respect:**
+1. **Distributed Authority** — Empower personnel through a hybrid hierarchy-network model that improves decision-making speed, reduces operational cost, and deepens employee engagement.
+2. **Market Intelligence** — Use empirically grounded, micro-focused market analytics to build innovative strategies and value propositions across the full customer spectrum.
+3. **Strategy Expression** — Communicate strategic imperatives with clarity at every organizational level through a unified GSO framework.
+4. **Value Proposition** — Design customer experiences around their full transformational journey, using cross-functional teams to uncover latent, unspoken needs.
+
+
+
+
+
+**Under Value:**
+5. 
+
+
 
 **Under Respect:**
 9. **Advanced Technologies** — Adopt emerging automation thoughtfully to cultivate continuous learning, navigate complexity, and leverage interconnectedness for sustainable growth.
@@ -92,8 +88,7 @@ Valorys organizes organizational activity into four perpetual cycles that link b
 
 ### The Four Central Cycles
 
-
-
+Valorys organizes organizational activity into four perpetual cycles that link boardroom intent to frontline execution:
 
 - **Think** — Executive ideation, goal crystallization, and outcomes-based strategic reasoning
 - **Plan** — Growth orchestration, enterprise alignment, and structured sequencing of value delivery
