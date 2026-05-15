@@ -59,6 +59,24 @@ The value amplifiers are the operational engine of Valorys — behavioral schema
 Valorys organizes organizational activity into four perpetual cycles that link boardroom intent to frontline execution:
 
 
+**Under Clarity:**
+1. **Distributed Authority** — Empower personnel through a hybrid hierarchy-network model that improves decision-making speed, reduces operational cost, and deepens employee engagement.
+2. **Market Intelligence** — Use empirically grounded, micro-focused market analytics to build innovative strategies and value propositions across the full customer spectrum.
+3. **Strategy Expression** — Communicate strategic imperatives with clarity at every organizational level through a unified GSO framework.
+4. **Value Proposition** — Design customer experiences around their full transformational journey, using cross-functional teams to uncover latent, unspoken needs.
+Valorys organizes organizational activity into four perpetual cycles that link boardroom intent to frontline execution:
+
+
+
+**Under Clarity:**
+1. **Distributed Authority** — Empower personnel through a hybrid hierarchy-network model that improves decision-making speed, reduces operational cost, and deepens employee engagement.
+2. **Market Intelligence** — Use empirically grounded, micro-focused market analytics to build innovative strategies and value propositions across the full customer spectrum.
+3. **Strategy Expression** — Communicate strategic imperatives with clarity at every organizational level through a unified GSO framework.
+4. **Value Proposition** — Design customer experiences around their full transformational journey, using cross-functional teams to uncover latent, unspoken needs.
+Valorys organizes organizational activity into four perpetual cycles that link boardroom intent to frontline execution:
+
+
+
 
 **Under Value:**
 5. **Business Capabilities** — Rapidly build, manage, and refine the modular enterprise competencies required to achieve strategic objectives.
