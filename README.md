@@ -173,7 +173,7 @@ For the full ecosystem invitation and contact architecture, visit [vterra.ai/eco
 
 ## Strategy & Accountability
 Vterra publishes its own operating GSOs as a demonstration that we practice what we offer.  
-[See the 2026 GSO Framework →](https://github.com/vterra-open/vterra/blob/main/Vterra2026GSOs.md)
+[See the 2026 GSO Framework →](https://github.com/vterra-open/vterra/blob/main/Vterra-2026-GSOs.md)
 
 
 ---
